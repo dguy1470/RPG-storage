@@ -1,0 +1,4 @@
+Sword           |HP |Mana   |AD  |AP |Def    |MR |MS |Reg    |MReg   |CD |Crit   |Gouge  |Pen    |STA    |LS |Ten    |AS |Enc    |
+Wooden Sword    |0  |0      |5   |0  |0      |0  |0  |0      |0      |0  |1      |0      |0      |0      |0  |0      |0  |0      |
+Basic Sword     |0  |0      |12  |0  |0      |0  |0  |0      |0      |0  |0      |0      |0      |0      |0  |0      |0  |0      |
+Short Sword     |0  |0      |18  |0  |0      |0  |0  |0      |0      |0  |0      |0      |0      |0      |0  |0      |0  |0      |
