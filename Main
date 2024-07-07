@@ -1,0 +1,15 @@
+from RPG_stats import Stats
+from RPG_raceStats import Races
+from RPG_stat_growth import statgrowth
+from RPG_class_growth import Classes
+import RPG_statcalc
+
+play = "y"
+while play == "y":
+
+
+    RPG_statcalc.RPGcalc.RaceStat()
+
+    play = input("Run again? (y/n): ")
+
+    # RPG_statcalc.RPGcalc.RaceStat()
